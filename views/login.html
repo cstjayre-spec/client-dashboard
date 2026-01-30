@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Login</title>
+  <style>
+    body { font-family: Arial; background: #f0f0f0; padding: 40px; }
+    .box { width: 300px; margin: auto; padding: 20px; background: white; border-radius: 8px; }
+    input { width: 100%; padding: 10px; margin: 10px 0; }
+    button { width: 100%; padding: 10px; background: black; color: white; border: none; }
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>Client Login</h2>
+    <form action="/login" method="POST">
+      <input type="text" name="username" placeholder="Username" required />
+      <input type="password" name="password" placeholder="Password" required />
+      <button type="submit">Login</button>
+    </form>
+  </div>
+</body>
+</html>

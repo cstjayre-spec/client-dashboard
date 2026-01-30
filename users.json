@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "username": "clientA",
+      "password": "$2b$10$7gxp/SEcMhI7sOCiGRvALe0aB05hTfMNE748lJ..H4dDFCFD8N8Zq",
+      "clientFolder": "clientA"
+    }
+  ]
+}
