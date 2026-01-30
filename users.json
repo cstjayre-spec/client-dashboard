@@ -4,6 +4,17 @@
       "username": "clientA",
       "password": "$2b$10$7gxp/SEcMhI7sOCiGRvALe0aB05hTfMNE748lJ..H4dDFCFD8N8Zq",
       "clientFolder": "clientA"
+    },
+    {
+      "username": "Craig Ayre",
+      "password": "$2b$10$tvoJKeNNh/qmtiA31TCcv.g3vSWQafIzMncsWfavNFF/9AVxITP1K",
+      "clientFolder": "clientA"
+    },
+    {
+      "username": "Steven Beukes",
+      "password": "$2b$10$lbDM09up4JGeuM09yrH01OUk2CmN/Lclu4.ENCQrBs0nVPFnY71Oi",
+      "clientFolder": "clientA"
     }
+
   ]
 }
